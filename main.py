@@ -1,5 +1,5 @@
-def test():
-    print("Test")
+def zaloguj():
+    print("zalogowano!")
 
 print("Dupa")
-test()
+zaloguj()
